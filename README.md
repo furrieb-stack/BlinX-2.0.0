@@ -104,7 +104,7 @@ BlinX Ecosystem
 ```php
 User Roles: [
     'standard' => Basic permissions,
-    'verified' => Email verified status,
+    'verified' => Media verified account,
     'moderator' => Content moderation,
     'admin' => Full system access,
     'employee' => Staff recognition
